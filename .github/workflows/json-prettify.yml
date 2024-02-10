@@ -3,11 +3,13 @@ name: Prettify JSON
 on:
   push:
     branches:
-      - main 
+      - master 
 
 jobs:
   prettify:
     runs-on: ubuntu-latest
+    container:
+      image: node:latest
 
     steps:
       - name: Checkout code
