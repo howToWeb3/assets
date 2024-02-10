@@ -21,6 +21,11 @@ jobs:
           find . -name "*.json" -exec jq . {} \;
           git add .
 
+      - name: Set Git user name and email
+        run: |
+          git config --global user.email "tpardhe@gmail.com"
+          git config --global user.name "Tushar Pardhe"
+
       - name: Commit changes
         run: 'git commit -m "chore: prettify json files" --no-verify'
 
