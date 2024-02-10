@@ -1,0 +1,35 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "img": "about-01.png",
+            "class": "img1"
+        },
+        {
+            "id": 2,
+            "img": "about-02.png",
+            "class": "img2"
+        },
+        {
+            "id": 3,
+            "img": "about-03.png",
+            "class": "img3"
+        },
+        {
+            "id": 4,
+            "img": "about-04.png",
+            "class": "img4"
+        },
+        {
+            "id": 5,
+            "img": "about-05.png",
+            "class": "img5"
+        }
+    ],
+    "blockText": {
+        "subheading": "About us",
+        "heading": "Premium Meme-FT Collections",
+        "desc1": "Embracing the power of memes, Moonboi589 fosters a unique and vibrant economy, driven by community creativity and engagement.",
+        "desc2": "Dive into the future of Decentralized Memetics with the #Moonboi589 exclusive 3D Utility NFT Collectibles! 🚀 ⚙️ Plans for future NFT Staking Utility with Arti-Nodes!, $Moonboi589NFTs Loyalty Reward Program, and integration with XRPL Smart Contract Side Chains will be announced!"
+    }
+}

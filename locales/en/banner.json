@@ -1,0 +1,17 @@
+{
+    "heading": "MB589:",
+    "subHeading": "Decentralized Memetics",
+    "desc": "No Kings. Only Memes.",
+    "getConnectedBtnText": "Get Connected",
+    "acceptText": "We are Moonboi589 NFT",
+    "acceptSubText": "We accept:",
+    "acceptList": ["Memes"],
+    "currentBid": {
+        "label": "Current Bid",
+        "amount": "2.26 ETH"
+    },
+    "owner": {
+        "name": "Moonboi5589",
+        "handle": "@moonboi5589"
+    }
+}

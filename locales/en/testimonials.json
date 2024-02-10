@@ -1,0 +1,30 @@
+{
+    "heading": "What People Say",
+    "subheading": "Testimonials",
+    "items": [
+        {
+            "id": 1,
+            "icon": "quote.png",
+            "text": "“ Curabitur eu est feugiat quam feugiat tristique non vel erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue, nunc nec suscipit fringilla, augue ligula eleifend velit. “",
+            "avt": "avt-02.png",
+            "name": "Jacob Jones",
+            "position": "Chief Product Officer"
+        },
+        {
+            "id": 2,
+            "icon": "quote.png",
+            "text": "“ Curabitur eu est feugiat quam feugiat tristique non vel erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue, nunc nec suscipit fringilla, augue ligula eleifend velit. “",
+            "avt": "avt-02.png",
+            "name": "Jacob Jones",
+            "position": "Chief Product Officer"
+        },
+        {
+            "id": 3,
+            "icon": "quote.png",
+            "text": "“ Curabitur eu est feugiat quam feugiat tristique non vel erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque congue, nunc nec suscipit fringilla, augue ligula eleifend velit. “",
+            "avt": "avt-02.png",
+            "name": "Jacob Jones",
+            "position": "Chief Product Officer"
+        }
+    ]
+}
