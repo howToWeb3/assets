@@ -1,4 +1,6 @@
 {
     "heading": "Create your NFT portfolio",
-    "desc": "Get udpated with news, tips & tricks"
+    "desc": "Get udpated with news, tips & tricks",
+    "joinBtnText": "Join Now",
+    "createBackgroundImg": "/images/png/layouts/create.png"
 }

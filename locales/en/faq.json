@@ -3,6 +3,24 @@
     "subheading": "FAQs",
     "desc1": "Below is a list of frequently asked questions and answers from partners and 3D artist",
     "desc2": "Please check this FAQ first before contacting us.",
+    "tabs": [
+        {
+            "id": 1,
+            "title": "Cryptocurrency"
+        },
+        {
+            "id": 2,
+            "title": "NFT Token"
+        },
+        {
+            "id": 3,
+            "title": "Collection"
+        },
+        {
+            "id": 4,
+            "title": "Crypto Trading"
+        }
+    ],
     "faqs": [
         {
             "id": 1,
