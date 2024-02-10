@@ -22,7 +22,7 @@ jobs:
           git add .
 
       - name: Commit changes
-        run: git commit -m "chore: prettify json files" --no-verify
+        run: 'git commit -m "chore: prettify json files" --no-verify'
 
       - name: Push changes
         uses: ad-m/github-push-action@master
