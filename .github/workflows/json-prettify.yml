@@ -1,0 +1,30 @@
+name: Prettify JSON
+
+on:
+  push:
+    branches:
+      - main 
+
+jobs:
+  prettify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Install jq
+        run: sudo apt-get install jq
+
+      - name: Prettify JSON files
+        run: |
+          find . -name "*.json" -exec jq . {} \;
+          git add .
+
+      - name: Commit changes
+        run: git commit -m "chore: prettify json files" --no-verify
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
