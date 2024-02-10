@@ -26,8 +26,13 @@ jobs:
           git config --global user.email "tpardhe@gmail.com"
           git config --global user.name "Tushar Pardhe"
 
-      - name: Commit changes
-        run: 'git commit -m "chore: prettify json files" --no-verify'
+      - name: Check & Commit
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "chore: prettify json files" --no-verify
+          else
+            echo "No changes to commit."
+          fi
 
       - name: Push changes
         uses: ad-m/github-push-action@master
