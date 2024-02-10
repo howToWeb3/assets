@@ -4,73 +4,73 @@
     "teamMembers": [
         {
             "id": 1,
-            "img": "team-01.png",
+            "img": "/images/png/layouts/team-01.png",
             "name": "Jane Cooper",
             "position": "Founder & CEO"
         },
         {
             "id": 2,
-            "img": "team-02.png",
+            "img": "/images/png/layouts/team-02.png",
             "name": "Jenny Wilson",
             "position": "Designer"
         },
         {
             "id": 3,
-            "img": "team-03.png",
+            "img": "/images/png/layouts/team-03.png",
             "name": "Ralph Edwards",
             "position": "Developer"
         },
         {
             "id": 4,
-            "img": "team-04.png",
+            "img": "/images/png/layouts/team-04.png",
             "name": "Cody Fisher",
             "position": "3D Artist"
         },
         {
             "id": 5,
-            "img": "team-05.png",
+            "img": "/images/png/layouts/team-05.png",
             "name": "Jane Cooper",
             "position": "Founder & CEO"
         },
         {
             "id": 6,
-            "img": "team-06.png",
+            "img": "/images/png/layouts/team-06.png",
             "name": "Jane Cooper",
             "position": "Founder & CEO"
         },
         {
             "id": 7,
-            "img": "team-07.png",
+            "img": "/images/png/layouts/team-07.png",
             "name": "Jenny Wilson",
             "position": "Designer"
         },
         {
             "id": 8,
-            "img": "team-08.png",
+            "img": "/images/png/layouts/team-08.png",
             "name": "Ralph Edwards",
             "position": "Developer"
         },
         {
             "id": 9,
-            "img": "team-04.png",
+            "img": "/images/png/layouts/team-04.png",
             "name": "Cody Fisher",
             "position": "3D Artist"
         },
         {
             "id": 10,
-            "img": "team-01.png",
+            "img": "/images/png/layouts/team-01.png",
             "name": "Jane Cooper",
             "position": "Founder & CEO"
         },
         {
             "id": 11,
-            "img": "team-02.png",
+            "img": "/images/png/layouts/team-02.png",
             "name": "Jenny Wilson",
             "position": "Designer"
         },
         {
             "id": 12,
-            "img": "team-03.png",
+            "img": "/images/png/layouts/team-03.png",
             "name": "Ralph Edwards",
             "position": "Developer"
         }

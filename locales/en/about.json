@@ -2,12 +2,12 @@
     "images": [
         {
             "id": 1,
-            "img": "about-01.png",
+            "img": "/images/png/layouts/about-01.png",
             "class": "img1"
         },
         {
             "id": 2,
-            "img": "about-02.png",
+            "img": "/images/png/layouts/about-02.png",
             "class": "img2"
         },
         {
@@ -17,12 +17,12 @@
         },
         {
             "id": 4,
-            "img": "about-04.png",
+            "img": "/images/png/layouts/about-04.png",
             "class": "img4"
         },
         {
             "id": 5,
-            "img": "about-05.png",
+            "img": "/images/png/layouts/about-05.png",
             "class": "img5"
         }
     ],

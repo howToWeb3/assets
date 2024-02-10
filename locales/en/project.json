@@ -4,47 +4,47 @@
     "items": [
         {
             "id": 1,
-            "img": "project-01.png",
+            "img": "/images/png/layouts/project-01.png",
             "title": "3D Digital Artwork"
         },
         {
             "id": 2,
-            "img": "project-02.png",
+            "img": "/images/png/layouts/project-02.png",
             "title": "King Of Pirates"
         },
         {
             "id": 3,
-            "img": "project-03.png",
+            "img": "/images/png/layouts/project-03.png",
             "title": "Pomeranian Doge"
         },
         {
             "id": 4,
-            "img": "project-04.png",
+            "img": "/images/png/layouts/project-04.png",
             "title": "Nintendo Switch"
         },
         {
             "id": 5,
-            "img": "project-05.png",
+            "img": "/images/png/layouts/project-05.png",
             "title": "The Strange Art"
         },
         {
             "id": 6,
-            "img": "project-01.png",
+            "img": "/images/png/layouts/project-01.png",
             "title": "3D Digital Artwork"
         },
         {
             "id": 7,
-            "img": "project-02.png",
+            "img": "/images/png/layouts/project-02.png",
             "title": "King Of Pirates"
         },
         {
             "id": 8,
-            "img": "project-03.png",
+            "img": "/images/png/layouts/project-03.png",
             "title": "Pomeranian Doge"
         },
         {
             "id": 9,
-            "img": "project-04.png",
+            "img": "/images/png/layouts/project-04.png",
             "title": "Nintendo Switch"
         }
     ]

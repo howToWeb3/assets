@@ -5,10 +5,17 @@
     "getConnectedBtnText": "Get Connected",
     "acceptText": "We are Moonboi589 NFT",
     "acceptSubText": "We accept:",
+    "scanUsingXaman": "Scan using XAMAN",
     "acceptList": ["Memes"],
-    "currentBid": {
-        "label": "Current Bid",
-        "amount": "2.26 ETH"
+    "ourThing": {
+        "heading": "We do Memes",
+        "subHeading": "💸💸💸💸"
+    },
+    "bannerRight": {
+        "img": "/images/png/layouts/banner.png"
+    },
+    "price": {
+        "img": "/images/png/icon/icon-02.png"
     },
     "owner": {
         "name": "Moonboi5589",
