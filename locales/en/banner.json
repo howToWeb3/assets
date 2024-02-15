@@ -1,24 +1,20 @@
 {
-    "heading": "MB589:",
-    "subHeading": "Decentralized Memetics",
-    "desc": "No Kings. Only Memes.",
+    "heading": "How To Web3",
+    "desc": "Learn. Create. Share.",
     "getConnectedBtnText": "Get Connected",
-    "acceptText": "We are Moonboi589 NFT",
-    "acceptSubText": "We accept:",
     "scanQR": "Scan QR",
-    "acceptList": ["Memes"],
     "ourThing": {
-        "heading": "We do Memes",
-        "subHeading": "💸💸💸💸"
+        "heading": "We Teach Web3",
+        "subHeading": "Learn with us"
     },
     "bannerRight": {
         "img": "/images/png/layouts/banner.png"
     },
     "price": {
-        "img": "/images/png/icon/icon-02.png"
+        "img": "/images/png/icon/favicon-512x512.png"
     },
     "owner": {
-        "name": "Moonboi5589",
-        "handle": "@moonboi5589"
+        "name": "How To Web3",
+        "handle": "@hwtweb3"
     }
 }

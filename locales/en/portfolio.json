@@ -1,5 +1,5 @@
 {
-    "heading": "Become a Moonboi589",
+    "heading": "How to get started?",
     "subheading": "Join Us",
     "items": [
         {
@@ -11,20 +11,20 @@
         {
             "id": 2,
             "img": "/images/svg/icons/icon-2.svg",
-            "title": "Buy a Meme-FT",
-            "desc": "Browse through the collection and buy the meme-FT of your choice"
+            "title": "Jump into our collection",
+            "desc": "Browse through our curated courses and choose your path"
         },
         {
             "id": 3,
             "img": "/images/svg/icons/icon-3.svg",
-            "title": "Show-off your collection",
+            "title": "Show-off your skills",
             "desc": "Share your collection with your friends and family on social media"
         },
         {
             "id": 4,
             "img": "/images/svg/icons/icon-4.svg",
-            "title": "Auction your Meme-FT",
-            "desc": "Display your hand-crafted meme-FTs in the marketplace and auction them off"
+            "title": "Auction your art",
+            "desc": "Display your hand-crafted NFTs in the marketplace and auction them off"
         }
     ]
 }

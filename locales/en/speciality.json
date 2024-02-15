@@ -1,31 +1,31 @@
 {
     "heading": "Our Speciality",
-    "subheading": "Why Choose Moonboi589?",
-    "desc": "A collection of off-the-shelf solutions for your daily dose of Memes.",
+    "subheading": "Why Use How to Web3?",
+    "desc": "A collection of curated resources to help you understand the world of Web3.",
     "items": [
         {
             "id": 1,
             "img": "/images/png/icon/icon1.png",
             "title": "Huge Collection",
-            "desc": "Experience a diverse range of digital assets in our collection"
+            "desc": "Experience a diverse range of knowledge and resources"
         },
         {
             "id": 2,
             "img": "/images/png/icon/icon2.png",
             "title": "High Quality",
-            "desc": "Superior quality digital memes created by our talented artists"
+            "desc": "Superior quality content, handpicked by experts"
         },
         {
             "id": 3,
             "img": "/images/png/icon/icon3.png",
             "title": "Top Resource",
-            "desc": "Gathered memes from top resources in the industry"
+            "desc": "Gathered from the best resources on the web"
         },
         {
             "id": 4,
             "img": "/images/png/icon/icon4.png",
             "title": "Big Community",
-            "desc": "Community as big as the moon, and growing everyday"
+            "desc": "Join a community of like-minded individuals"
         }
     ]
 }
